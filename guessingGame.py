@@ -1,4 +1,5 @@
 import random
+print("Number Guessing Game")
 number = random.randint(1,9)
 chances = 0
 print("Guess a number between 1 and 9")
